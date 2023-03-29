@@ -1,0 +1,21 @@
+#bot1{
+    color: yellow;
+    font-weight: 400;
+}
+#inp1{
+    position: relative;
+    top: 4px;
+}
+input[value=""]{
+    background-color: rgb(209, 248, 136);
+}
+input[value=""]:hover{
+    background-color: rgb(245, 168, 141);
+    color: aqua;
+}
+.ph-left::placeholder{
+    color: blue;
+}
+.ph-left::placeholder:hover{
+    color:blue;
+}
